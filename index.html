@@ -19,23 +19,26 @@
     <img src="./images/logo.svg" alt="Logo Base Apparel" id="logo">
 
     <div id="bloco-texto">
-      <h1>We're coming soon</h1>
-      <p>Hello fellow shoppers! We're currently building our new fashion store. 
+      <h1><span>We're</span> coming soon</h1>
+      <p id="corpo-texto">Hello fellow shoppers! We're currently building our new fashion store. 
         Add your email below to stay up-to-date with announcements and our launch deals.</p>
       
-        <div id="email">
-          Email Address
-          <input>
-          <button></button>
-        </div>
+        <form name="email" method="GET" action="main.js" id="email">
+          <label for="end-email">
+            <input type="email" name="email" placeholder="Email Adress" id="end-email">
+          </label>
+          <div id="btn">
+            <input type="image" id="btn-enviar" alt="Botão enviar gráfico" src="./images/icon-arrow.svg">
+          </div> 
+        </form>
 
-        <div id="rodape">
-          <footer class="conteudo-footer">
-            <p id="texto-rodape">
-              Desenvolvido por <a href="https://github.com/amandafd">Amanda Dionísio</a>, a partir do desafio de: <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-            </p>
-          </footer>
-        </div>
+        
+        <footer class="conteudo-footer">
+          <p id="texto-rodape">
+            Desenvolvido por <a href="https://github.com/amandafd">Amanda Dionísio</a>, a partir do desafio de: <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+          </p>
+        </footer>
+        
       </div>
     </div>
   </div>
