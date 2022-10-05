@@ -110,6 +110,39 @@ label {
     color: hsl(0, 36%, 70%); 
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 970px) {
+    #conteudo {
+        padding: 4rem;
+    }
 
+    #end-email {
+        width: 20rem;
+    }
+
+    label {
+        margin-right: 1rem;
+    }
+
+    #btn {
+        margin-right: 1rem;
+    }
+}
+
+@media screen and (max-width: 760px){
+    body {
+        display: inherit;
+        min-height: 100vh;
+    }
+
+    #conteudo {
+        min-width: 103vw;
+        padding: inherit;
+    }
+
+    #foto-mobile {
+        background-image: url(./images/hero-mobile.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 29rem;
+    }
 }
