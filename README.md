@@ -46,10 +46,10 @@
 <h2 id="meu-processo">Meu processo</h2>
 
 <h3 id="aprendizados">Aprendizados</h3>
-<p>Os aprendizados serão atualizados durante o desenvolvimento do projeto</p>
 
-<ul>
-  <li></li>
+<ul>Os aprendizados reforçados e adquiridos durante a execução desse projeto foram:
+  <li>Avançando na responsividade com CSS, trabalhando com display misto</li>
+  <li>Executar um display grid com duas colunas, sendo uma delas um conteúdo com display flex</li>
 </ul>
 
 <h2 id="autora" align="left">Autora</h2>
