@@ -37,9 +37,6 @@ h1 span {
     color: hsl(0, 36%, 70%);
     font-weight: 300;
 }
-/*#bloco-texto {
-    max-width: 27rem;
-}*/
 
 
 #corpo-texto  {
@@ -55,7 +52,7 @@ h1 span {
 }
 
 #end-email {
-    background-color: rgba(255, 255, 255, 0);
+    background-color: transparent;
     width: 20rem;
     padding: 1.3rem 1.7rem;
     border-radius: 5rem;
@@ -64,6 +61,7 @@ h1 span {
     border-width: 0.02rem;
     font-family: 'Josefin Sans', sans-serif;
 }
+
 
 ::placeholder {
     color: hsla(0, 36%, 70%, 0.818);
@@ -92,7 +90,11 @@ label {
     justify-content: center;
     border-radius: 3rem;
 
-}    
+} 
+
+#btn-enviar {
+    padding: 1rem 3rem;
+}
 
 #foto {
     background-image: url(./images/hero-desktop.jpg);
@@ -210,6 +212,10 @@ label {
         height: 3.2rem;
         margin-right: 0;
         left: 15rem;
+    }
+
+    #btn-enviar {
+        padding: 1rem 2rem;
     }
 
     .conteudo-footer {
