@@ -13,7 +13,7 @@
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="Badge CSS" /></a>
 </p>
 
-
+<a href="https://base-apparel-coming-soon-three-tau.vercel.app/" align="center">Link da página do projeto</a>
 
 
 <p>Resolução do desafio <a href="https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0" alt="Link para o challenge">Base Apparel coming soon page challenge on Frontend Mentor</a>.</p> 
