@@ -1,7 +1,7 @@
 <h1 align="center">Base Apparel coming soon page</h1>
 
 <div align-items="center">
-  <img src="./images/secreenshot-projeto.png" align="right" alt="Screenshot do projeto">
+  <img src="/images/screenshot-projeto.png" align="right" alt="Screenshot do projeto">
 </div>
 </br>
 
