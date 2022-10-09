@@ -20,10 +20,10 @@
 
 <ul>Conteúdos
   <li><a href="#visao-geral">Visão Geral</a> 
-    <li><a href="#o-desafio">O Desafio</a></li>
+    <ul><li><a href="#o-desafio">O Desafio</a></li></ul>
   </li>  
   <li><a href="#meu-processo">Meu processo</a>
-    <li><a href="#aprendizados">Aprendizados</a></li>
+    <ul><li><a href="#aprendizados">Aprendizados</a></li></ul>
   </li>  
   <li><a href="#autora">Autora</li>
 </ul>
@@ -35,8 +35,8 @@
 <ul>Os usuários devem ser capazes de:
   <li>Visualizar corretamente o layout do site, dependendo do tamanho da tela do dispositivo</li>
   <li>Receber uma mensagem de erro se:
-    <li>O campo estiver vazio</li>
-    <li>O email não estiver formatado corretamente</li>
+    <ul><li>O campo estiver vazio</li>
+    <li>O email não estiver formatado corretamente</li></ul>
   </li>
 </ul>  
 
