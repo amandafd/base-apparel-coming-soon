@@ -22,7 +22,7 @@
   <li><a href="#visao-geral">Visão Geral</a> 
     <li><a href="#o-desafio">O Desafio</a></li>
   </li>  
-  <li><a href="#meu-processo">Meu processo</a></li>
+  <li><a href="#meu-processo">Meu processo</a>
     <li><a href="#aprendizados">Aprendizados</a></li>
   </li>  
   <li><a href="#autora">Autora</li>
